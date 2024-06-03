@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nihogfx
+- 👋 Hi, I’m @niho
 - 👀 I’m interested in making gfx
 - 🌱 I’m currently learning css
 - 😄 Pronouns: he/him
